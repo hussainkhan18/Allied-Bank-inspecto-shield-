@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "449239285389",
+    "project_id": "inspecto-shield",
+    "storage_bucket": "inspecto-shield.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449239285389:android:caf7949a36a5387b8facc4",
+        "android_client_info": {
+          "package_name": "com.allied.inspecto.shield"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPL9nbjeCRbsGFFHNz7rxZtfqZ66cTCG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449239285389:android:85c436dd5bf205ef8facc4",
+        "android_client_info": {
+          "package_name": "com.inspecto.shield.hashpixels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPL9nbjeCRbsGFFHNz7rxZtfqZ66cTCG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
